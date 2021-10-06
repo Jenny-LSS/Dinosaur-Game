@@ -1,3 +1,4 @@
 # 공룡게임 충돌연습
-https://zealous-hamilton-777ace.netlify.app version0.1<br>
+[DEMO version0.1](https://zealous-hamilton-777ace.netlify.app)
+
 Space : 점프
